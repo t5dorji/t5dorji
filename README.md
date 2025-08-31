@@ -2,7 +2,7 @@
 
 💻 A computer science student at the University at Buffalo, passionate about learning and building software.  
 
-- 🌱 Currently learning **C**, **Python**, and **Java**  
+- 🌱 Currently learning **Python**, and **Java**  
 - 🎯 Goal: Build my first personal project before the end of the year  
 - 📂 Working on expanding my GitHub portfolio  
 - 📫 Reach me at **tseringtheironki@gmail.com**  
